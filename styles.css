@@ -105,8 +105,8 @@ li.nav_list-item{
 .email button{
     padding: 0.8rem 2rem;
     position: relative;
-    right: 7.5rem;
-    bottom: 0.2rem;
+    right: 7.75rem;
+    bottom: 0.1rem;
     border: 1px solid transparent;
     cursor: pointer;
     background-color: #8bb7a2;
@@ -115,8 +115,8 @@ li.nav_list-item{
 .email button:hover{
     padding: 0.8rem 2rem;
     position: relative;
-    right: 7.5rem;
-    bottom: 0.2rem;
+    right: 7.75rem;
+    bottom: 0.1rem;
     background-color: #636c79;
     color: #fff;
     cursor: pointer;
